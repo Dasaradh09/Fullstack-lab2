@@ -3,3 +3,4 @@ My details: Dasaradh Balusu ,dbalusu@hawk.iit.edu, Lab 2,  My website is http://
  Index Page and Introduction (/): It functions as the application's home page, giving a quick synopsis and introduction. Users can access the primary contacts page by clicking the link.
 Contacts List Page (/contacts): All contacts are shown in a tabular fashion on this page.Additionally, it offers links to each individual contact as well as a click to establish a new contact.
 install bootstrap package also.
+my git hub url : https://github.com/Dasaradh09/Fullstack-lab2.git
